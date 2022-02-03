@@ -1,0 +1,3 @@
+python principles: https://pythonprinciples.com/challenges/
+
+hacker rank: https://www.hackerrank.com/domains/python
