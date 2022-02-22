@@ -1,10 +1,3 @@
-sale_id,c_id,p_id,product,qty,store
-1,2,3,Monitor,2,ABC
-2,2,4,CPU,1,DEF
-3,1,3,Monitor,3,ABC
-4,4,2,RAM,2,DEF
-5,2,3,Monitor,3,ABC
-6,3,3,Monitor,2,DEF
-7,2,2,RAM,3,ABC
-8,3,2,RAM,2,DEF
-9,2,3,Monitor,2,ABC
+version https://git-lfs.github.com/spec/v1
+oid sha256:efc1eb189796603af43c370457f41b5c34e93352a12105fad0c9928d80929d3e
+size 210
