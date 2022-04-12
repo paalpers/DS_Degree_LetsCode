@@ -1,0 +1,38 @@
+1 - Banco de Dados: Vamos cadastrar usuário com as 
+informações de nome, email e senha
+
+Tabela usuario (users)
+id - INTEGER, AUTO INCREMENT(SERIAL), PK;
+nome - CHARACTER VARYING;
+email - CHARACTER VARYING;
+senha - CHARACTER VARYING;
+
+1.1 Criar Sequence;
+
+2 - Estrutura da nossa aplicação;
+3 - Arquivo de configuração das bibliotecas;
+4 - Criar arquivo .env e colocar os dados da conexão com 
+BD;
+5 - Criar arquivo principal;
+6 - Criar arquivos das telas de Login, 
+Registrar, Home;
+7 - Criar arquivo de .css;
+8 - Criar arquivo de .js;
+9 - No arquivo app.py, realizamos os imports 
+necessários;
+	9.1 - Procurar e lê o arquivo .env;
+	9.2 - Inicializar nosso app;
+	9.3 - Preencheu os valores nas variaveis de
+	conexão com o Banco de dados(vindos do 
+	arquivo .env);
+	9.4 - Realizamos a conexão com os dados anteriores;
+	9.5 - Inicializou o run do nosso arquivo python;
+10 - Criar as rotas das telas da aplicação 
+	(login, register, logout);
+11 - Criar o método default (/);
+12 - Criar o método Login;
+13 - Criar método de Registrar;
+14 - Criar método de Logout;
+
+
+
